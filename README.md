@@ -34,8 +34,13 @@ cd /project
 npm install
 
 # Run the Swagger Editor
+# The swagger-editor will be available at http://192.168.33.10:8080/swagger/editor
 npm run editor
 ```
+
+The `swagger.yaml` file is available at
+- `./swagger-editor-local/swagger.yaml` on the host machine
+- `/project/swagger.yaml` when logged in to the Vagrant environment
 
 ## Support
 
