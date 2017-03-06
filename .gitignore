@@ -1,3 +1,6 @@
+# The generated swagger.yaml file should not be committed to this repository
+swagger.yaml
+
 # Logs
 logs
 *.log
