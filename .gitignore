@@ -1,6 +1,9 @@
 # The generated swagger.yaml file should not be committed to this repository
 swagger.yaml
 
+# Ignore the .vagrant directory generated at runtime
+.vagrant
+
 # Logs
 logs
 *.log
