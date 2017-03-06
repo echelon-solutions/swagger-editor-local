@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Spawn a Swagger Editor locally that automatically syncs changes to a swagger.yaml file.",
   "dependencies": {
-    "swagger-serve": "file:./submodules/serve-swagger"
+    "serve-swagger-editor": "file:./submodules/serve-swagger"
   },
   "scripts": {
     "editor": "node server.js"
