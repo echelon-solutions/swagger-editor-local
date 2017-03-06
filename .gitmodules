@@ -1,0 +1,3 @@
+[submodule "submodules/serve-swagger"]
+	path = submodules/serve-swagger
+	url = https://github.com/echelon-solutions/serve-swagger.git
